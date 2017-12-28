@@ -12,4 +12,4 @@
 
 * Front end - React.js with Redux, Bootstrap, HTML5, CSS3
 * Middleware - REST APIs, Kafka, Redis
-* Back end - Node.js, MongoDB, MySQL
+* Back end - Node.js, MongoDB, MySQL, Elastic Search
